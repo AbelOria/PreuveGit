@@ -23,5 +23,6 @@ public class Mat {
 	
 	public void mon(){
 		
+		int b =20;
 	}
 }
