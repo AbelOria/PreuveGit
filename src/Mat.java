@@ -16,4 +16,8 @@ public class Mat {
 	public void melamela(){
 		
 	}
+	
+	public void sun(){
+		
+	}
 }
