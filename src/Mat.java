@@ -7,4 +7,8 @@ public class Mat {
 	public void soustaction(){
 		
 	}
+	
+	public void addition(){
+		
+	}
 }
