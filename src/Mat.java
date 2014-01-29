@@ -7,5 +7,9 @@ public class Mat {
 	public void onrecommence(){
 		
 	}
+	
+	public void addition(){
+		
+	}
 
 }
