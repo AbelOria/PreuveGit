@@ -9,6 +9,11 @@ public class Mat {
 	}
 	
 	public void addition(){
+		int a = 10;
+	}
+	
+	
+	public void melamela(){
 		
 	}
 }
